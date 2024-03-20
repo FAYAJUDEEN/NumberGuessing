@@ -1,0 +1,43 @@
+body{
+    background:url("./NUMBERS.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main{
+    background:rgb(7, 133, 0);
+    width:900px;
+    height:500px;
+    margin-left:300px;
+    margin-top:50px;
+    border-radius: 10%;
+}
+#hd1{
+    margin-left:250px;
+}
+.box1{
+    padding-left:250px;
+    color:rgb(68, 255, 59);
+}
+#box2{
+    margin-left:1%;
+    margin-top:50px;
+    display:flex;
+    justify-content:space-evenly;
+   
+}
+#n{
+    margin-left:350px;
+    margin-top:50px;
+    width:200px;
+    height:20px;
+}
+#res{
+    color: black;
+    margin-left: 320px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#tries{
+    color: black;
+    margin-left:350px;
+    font-family: 'Courier New', Courier, monospace;
+}
